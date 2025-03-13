@@ -49,8 +49,8 @@ print(np.array([1, 2, 3]) ** 2)
 
 我最喜欢的环境管理工具是 `conda`。
 
-![环境搭建的截图一](https://github.com/L11-yy/GitDemo/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-13%20021655.png){width=800}
+![环境搭建的截图一](https://github.com/L11-yy/GitDemo/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-13%20021655.png)<!-- 图片，设置图片宽度为800 -->
 
 我可以在 IDE 上使用我建立的虚拟环境。
 
-![环境搭建的截图一](https://github.com/L11-yy/GitDemo/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-13%20021655.png){width=800}
+![环境搭建的截图一](https://github.com/L11-yy/GitDemo/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-13%20021655.png)<!-- 图片，设置图片宽度为800 -->
