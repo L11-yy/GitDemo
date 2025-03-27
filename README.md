@@ -1,6 +1,6 @@
 # 大眼仔麦克·华斯基的自我介绍
 
-![麦克·华斯基]("D:\Python3.11.6\PythonProject\NLP\images\大眼仔.webp"){width=200}
+![麦克·华斯基](https://github.com/L11-yy/GitDemo/blob/main/images/%E5%A4%A7%E7%9C%BC%E4%BB%94.png){width=200}
 
 大家好，我是**麦克**，我的身份是*怪兽大学的学生*。以下是我的自我介绍：
 
@@ -40,17 +40,13 @@
 ## 我的专业是人工智能
 
 ## 我最喜欢的一段代码
-
-```python
-import numpy as np
-print(np.array([1, 2, 3]) ** 2)
-
-其中执行 `print(np.array([1, 2, 3]) ** 2)` 可输出结果。
-
+    import numpy as np 
+    print(np.array([1, 2, 3]) ** 2)
+其中执行 ``print(np.array([1, 2, 3]) ** 2)``可输出结果。
 我最喜欢的环境管理工具是 `conda`。
 
-![环境搭建的截图一]("D:\Python3.11.6\PythonProject\NLP\images\屏幕截图 2025-03-13 021655.png"){width=800}
+![环境搭建的截图一](https://github.com/L11-yy/GitDemo/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-27%20093752.png)<!-- 图片，设置图片宽度为800 -->
 
 我可以在 IDE 上使用我建立的虚拟环境。
 
-![环境搭建的截图一]("C:\Users\35278\Pictures\Screenshots\屏幕截图 2025-03-13 021655.png"){width=800}
+![环境搭建的截图一](https://github.com/L11-yy/GitDemo/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-27%20094407.png)<!-- 图片，设置图片宽度为800 -->
